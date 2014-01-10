@@ -1,3 +1,4 @@
+"use strict"
 moduleName = 'jtphoto_wall'
 module = GLOBAL_MODULES[moduleName] = 
   id : moduleName

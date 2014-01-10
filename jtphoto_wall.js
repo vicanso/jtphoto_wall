@@ -1,4 +1,6 @@
 (function() {
+  "use strict";
+
   var $, exports, module, moduleName, randomAnimate, _;
 
   moduleName = 'jtphoto_wall';
